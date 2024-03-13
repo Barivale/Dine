@@ -1,0 +1,51 @@
+header {
+     background-image: url(20240312_162545.jpg);
+     text-align: center;
+     padding: 20px;
+     border-radius: 35px;
+     justify-content: center;
+     color: white;
+     font-size: large;
+     text-shadow: 100px orangered;
+}
+.navbar ul{
+     list-style: none;
+}
+.navbar li {
+     display: inline;
+     margin: 15px;
+     gap: 25px;
+     border: 2px solid orangered;
+     border-radius: 35px;
+     padding: 10px;
+}
+.navbar {
+     text-align: center;
+}
+.navbar a{
+     text-decoration: none;
+}
+.menu img{
+     size: 2px;
+     text-align: center;
+     padding: -55px;
+     border-radius: 100px;
+}
+.menu h2{
+     text-align: center;
+}
+.about h2{
+     text-align: center;
+}
+.about p{
+     padding: 5px;
+     margin: 5px;
+}
+.about div{
+     text-align: center;
+     display: flex;
+     justify-content: center;
+}
+footer {
+     text-align: center;
+}
